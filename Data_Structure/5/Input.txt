@@ -1,0 +1,18 @@
+3 3
+A B 10
+A C 40
+B C 20
+9 12
+A B 10
+A I 25
+B C 8
+B H 40
+B I 5
+C D 15
+C G 55
+D E 42
+E F 50
+E G 37
+G H 35
+H I 30
+0

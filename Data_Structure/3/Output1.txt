@@ -1,0 +1,6 @@
+Inorder: 2 3 4 5 7 8 9 
+Postorder: 2 4 5 3 9 8 7 
+Inorder: 12 34 58 90 
+Postorder: 12 34 90 58 
+Inorder: 1 15 26 49 67 99 
+Postorder: 1 49 67 26 15 99 
